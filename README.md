@@ -1,0 +1,1 @@
+tome de referencia un trabajo que habia realizado antes para el instituto en el que estoy que habia hecho con ia, por eso el diseño tan generico, pero no la utilize para este trabajo. Saludos profes y muchas gracias
