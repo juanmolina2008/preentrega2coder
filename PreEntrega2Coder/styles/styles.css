@@ -1,0 +1,124 @@
+/* estilos generales*/
+
+* {margin: 0; padding: 0;
+   
+}
+
+body {
+    background-color: #f2f2f2;
+    color: #222222;
+    font-family: 'Isometra', sans-serif;
+    line-height: 1.6;
+}
+
+/* ENCABEZADO Y MENÚ */
+
+header {
+    background-color: rgba(31, 58, 95, 1);
+    padding: 20px;
+    text-align: center;
+}
+
+header figure {
+    margin: 0 0 15px 0;
+}
+
+header img {
+    width: 100px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 5px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+nav a:hover {
+    background-color: #e09f3e;
+}
+
+
+
+/* contenido */
+
+main {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: rgba(31, 58, 95, 1);
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h2 {
+    color: rgba(31, 58, 95, 1);
+    font-size: 26px;
+}
+
+h3 {
+    color: #e09f3e;
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* caracteristicas */
+
+.caracteristicas {
+    text-align: center;
+}
+
+.caracteristica {
+    margin: 5px;
+    padding: 15px;
+    background-color: #e8edf2;
+    border-radius: 6px;
+}
+
+ul{list-style: none;}
+
+
+.redes{width: 100px;}
+
+.proyectos-imagenes{width: 80%;}
+
+/* links */
+
+a {
+    color: #1f3a5f;
+}
+
+/* footer */
+
+footer {
+    background-color: rgba(31, 58, 95, 1);
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
